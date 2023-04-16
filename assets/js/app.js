@@ -110,14 +110,7 @@ let header = $(`
 // Footer
 
 let footer = $(`
-<footer class="footer"  style="background-color:#2b2a2a;">
-  <div class="p-4">
-    <div class="container-fluid quote-container">
-      <div style="text-align:center;">
-    © Copyright 2023 Abidul Islam Shaon. All rights reserved.
 
-    </div>
-</footer>
 `);
 
 //"Scroll to top" button
